@@ -1,0 +1,15 @@
+{
+  "name": "toggl-report",
+  "version": "1.0.0",
+  "description": "",
+  "main": "getCSV.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dateformat": "^2.0.0",
+    "fast-csv": "2.4.0"
+  }
+}
