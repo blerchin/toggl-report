@@ -25,4 +25,7 @@ Then edit `getCSV.js` to include the project ID `pid`, also from toggl
 interface. Edit `startDate` and `endDate` to whatever you want, as long as
 the js Date constructor understands it.
 
-Then run script. Yay.
+Then run:
+
+`npm install`
+`node getCSV`
